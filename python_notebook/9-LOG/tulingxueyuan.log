@@ -1,0 +1,60 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2018-04-20 21:10:49,149=====DEBUG++++++(message)s
+2018-04-20 21:10:49,158=====INFO++++++(message)s
+2018-04-20 21:10:49,158=====WARNING++++++(message)s
+2018-04-20 21:10:49,158=====ERROR++++++(message)s
+2018-04-20 21:10:49,158=====CRITICAL++++++(message)s
+2018-04-20 21:10:49,158=====DEBUG++++++(message)s
+2018-04-20 21:10:49,158=====INFO++++++(message)s
+2018-04-20 21:10:49,163=====WARNING++++++(message)s
+2018-04-20 21:10:49,163=====ERROR++++++(message)s
+2018-04-20 21:10:49,163=====CRITICAL++++++(message)s
+2018-04-20 21:12:19,492=====DEBUG++++++This is a debug log.
+2018-04-20 21:12:19,513=====INFO++++++This is a info log.
+2018-04-20 21:12:19,513=====WARNING++++++This is a warning log.
+2018-04-20 21:12:19,513=====ERROR++++++This is a error log.
+2018-04-20 21:12:19,513=====CRITICAL++++++This is a critical log.
+2018-04-20 21:12:19,513=====DEBUG++++++This is a debug log.
+2018-04-20 21:12:19,513=====INFO++++++This is a info log.
+2018-04-20 21:12:19,513=====WARNING++++++This is a warning log.
+2018-04-20 21:12:19,513=====ERROR++++++This is a error log.
+2018-04-20 21:12:19,514=====CRITICAL++++++This is a critical log.
+2018-10-05 11:47:15,187=====DEBUG++++++This is a debug log.
+2018-10-05 11:47:15,187=====INFO++++++This is a info log.
+2018-10-05 11:47:15,187=====WARNING++++++This is a warning log.
+2018-10-05 11:47:15,188=====ERROR++++++This is a error log.
+2018-10-05 11:47:15,188=====CRITICAL++++++This is a critical log.
+2018-10-05 11:47:15,188=====DEBUG++++++This is a debug log.
+2018-10-05 11:47:15,188=====INFO++++++This is a info log.
+2018-10-05 11:47:15,188=====WARNING++++++This is a warning log.
+2018-10-05 11:47:15,188=====ERROR++++++This is a error log.
+2018-10-05 11:47:15,188=====CRITICAL++++++This is a critical log.
+2018-10-05 11:57:02,100=====DEBUG++++++This is a debug log.
+2018-10-05 11:57:02,100=====INFO++++++This is a info log.
+2018-10-05 11:57:02,100=====WARNING++++++This is a warning log.
+2018-10-05 11:57:02,100=====ERROR++++++This is a error log.
+2018-10-05 11:57:02,100=====CRITICAL++++++This is a critical log.
+2018-10-05 11:57:02,101=====DEBUG++++++This is a debug log.
+2018-10-05 11:57:02,101=====INFO++++++This is a info log.
+2018-10-05 11:57:02,101=====WARNING++++++This is a warning log.
+2018-10-05 11:57:02,101=====ERROR++++++This is a error log.
+2018-10-05 11:57:02,101=====CRITICAL++++++This is a critical log.
+2018-10-05 11:57:16,809=====DEBUG++++++This is a debug log.
+2018-10-05 11:57:16,809=====INFO++++++This is a info log.
+2018-10-05 11:57:16,809=====WARNING++++++This is a warning log.
+2018-10-05 11:57:16,809=====ERROR++++++This is a error log.
+2018-10-05 11:57:16,810=====CRITICAL++++++This is a critical log.
+2018-10-05 11:57:16,810=====DEBUG++++++This is a debug log.
+2018-10-05 11:57:16,810=====INFO++++++This is a info log.
+2018-10-05 11:57:16,810=====WARNING++++++This is a warning log.
+2018-10-05 11:57:16,810=====ERROR++++++This is a error log.
+2018-10-05 11:57:16,810=====CRITICAL++++++This is a critical log.
